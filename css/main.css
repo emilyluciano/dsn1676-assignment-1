@@ -28,13 +28,33 @@ body {
     margin: 0 auto;
 }
 
+.background {
+    background-color: #87714f;
+    margin-bottom: .5em;
+    position: relative;
+    color: white;
+}
+
 .title {
     background-image: url(images/star_single-11.svg), url(../images/star_single-11.svg);
-    background-position: 7% 55%, 93%, 55%;
+    background-position: 7% 53%, 93%, 53%;
     background-repeat: no-repeat;
     background-size: 45px 45px;
     background-color: #E7E5D9;
     margin: auto;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.shadow {
+    text-shadow: 1.5px 1.5px #87714f;
+}
+
+.reward {
+    padding-bottom: 1em;
 }
 
 
