@@ -57,6 +57,25 @@ body {
     padding-bottom: 1em;
 }
 
+.chains {
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 20%;
+}
+
+.border {
+    border-image: url(images/border1.svg) 30 30 30 30 stretch;
+    border-width: 30px 30px 30px 30px;
+    margin: auto;
+    width: 100%;
+}
+
+.cowboy {
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 30%;
+}
+
 
 
 
