@@ -28,15 +28,14 @@ body {
     margin: 0 auto;
 }
 
-.star {
-    margin: 0 0 .2em 
+.title {
+    background-image: url(images/star_single-11.svg), url(../images/star_single-11.svg);
+    background-position: 7% 55%, 93%, 55%;
+    background-repeat: no-repeat;
+    background-size: 45px 45px;
+    background-color: #E7E5D9;
+    margin: auto;
 }
-
-
-
-
-
-
 
 
 
